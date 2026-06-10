@@ -1,0 +1,19 @@
+# FRIDAY AI v2.0 — pip install -r requirements.txt
+
+groq>=0.9.0
+elevenlabs>=1.0.0
+pygame>=2.5.0
+pyttsx3>=2.90
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
+psutil>=5.9.0
+screen-brightness-control>=0.23.0
+pyperclip>=1.8.2
+pyautogui>=0.9.54
+pycaw>=20181226
+comtypes>=1.2.0
+requests>=2.31.0
+winshell>=0.6
+pywin32>=306
+pillow>=10.0.0
+pytesseract>=0.3.10
